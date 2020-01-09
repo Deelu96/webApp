@@ -7,6 +7,6 @@ publishDir = "docs"
 
 [params]
   commentoEnable = false
-  body_classes = "athelas bg-white"
-  background_color_class = "light-gray { color: #EEEEEE } bg-dark-red { background-color: #E7040F }"
+  body_classes = "athelas bg-white}"
+  background_color_class = "gray { color: #777777 } bg-navy { background-color: #001B44 }"
 

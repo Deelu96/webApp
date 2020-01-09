@@ -1,0 +1,11 @@
+baseURL = "http://autogeekpro.com/"
+languageCode = "en-us"
+title = "AutoGeekPro"
+theme = "ananke"
+disqusShortname = "AutoGeek"
+
+[params]
+  commentoEnable = false
+  body_classes = "athelas bg-white"
+  background_color_class = "light-gray { color: #EEEEEE } bg-dark-red { background-color: #E7040F }"
+
